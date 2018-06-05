@@ -1,0 +1,19 @@
+{
+	"symbol": "BATT",
+	"address": "0x27DCCB58E387d98fe37b80F21FcAd2b3F7979905",
+	"overview": {
+		"en": "BATT takes the concept of block chain and multi centralization to realize the centralization of alliance trading places, so that 
+
+digital assets can be transparent, efficient and boundless..",
+		"zh": "BATT以区块链多中心化理念，实现去中心化的联盟交易场所,让数字资产透明、高效、无边界撮合交易"
+	},
+	"email": "wdbatt@126.com",
+	"website": "http://www.wdbatt.com",
+	"whitepaper": "http://www.wdbatt.com/doc/Batt.pdf",
+	"China": "NOT LOCKED",
+	"published_on": "2018-05-08",
+	"initial_price": {
+		"ETH": "0.003104088 ETH",
+		"USD": "1.7 USD"
+	}
+}
